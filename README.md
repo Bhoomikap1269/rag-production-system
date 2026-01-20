@@ -167,6 +167,8 @@ The architecture closely aligns with systems used in search, recommendation, and
 - BM25
 
 - Sentence-Transformers
+  
+- Cross-Encoders  
 
 - Transformers (FLAN-T5)
 
@@ -181,3 +183,6 @@ The architecture closely aligns with systems used in search, recommendation, and
 Bhoomika Pathapati
 
 MS in Data Science
+
+
+# This project was built to demonstrate real-world RAG system design as used in production search, recommendation, and enterprise AI pipelines.
