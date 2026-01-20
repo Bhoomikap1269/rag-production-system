@@ -181,8 +181,3 @@ The architecture closely aligns with systems used in search, recommendation, and
 ### 👤 Author
 
 Bhoomika Pathapati
-
-MS in Data Science
-
-
-This project was built to demonstrate real-world RAG system design as used in production search, recommendation, and enterprise AI pipelines.
