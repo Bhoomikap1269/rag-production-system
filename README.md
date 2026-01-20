@@ -82,17 +82,6 @@ Docker Deployment
 
 ---
 
-
----
-
-## Dataset
-
-- Amazon product listings (Kaggle)
-- ~7,000 real-world product descriptions
-- Noisy, unstructured text to simulate real search workloads
-
----
-
 ## API Usage
 
 ### Search Endpoint
