@@ -123,7 +123,7 @@ Docker Deployment
 
 ---
 
-### Running Locally
+## Running Locally
 
 ```json
 python -m uvicorn service.app:app --reload
@@ -131,7 +131,7 @@ python -m uvicorn service.app:app --reload
 
 ---
 
-### Running with Docker
+## Running with Docker
 
 ```json
 docker build -t rag-production-system .
@@ -140,19 +140,19 @@ docker run -p 8000:8000 rag-production-system
 
 ---
 
-### Why This Project Matters
+## Why This Project Matters
 
 This project reflects real-world RAG system design by emphasizing:
 
-Retrieval correctness over prompt engineering
+- Retrieval correctness over prompt engineering
 
-Ranking quality before generation
+- Ranking quality before generation
 
-Latency stability and warmup handling
+- Latency stability and warmup handling
 
-Clear separation of retrieval, ranking, and generation
+- Clear separation of retrieval, ranking, and generation
 
-Vendor-agnostic, open-source deployment
+- Vendor-agnostic, open-source deployment
 
 The architecture closely aligns with systems used in search, recommendation, and enterprise QA pipelines at large technology companies.
 
@@ -160,19 +160,19 @@ The architecture closely aligns with systems used in search, recommendation, and
 
 ### Tech Stack
 
-Python
+- Python
 
-FAISS
+- FAISS
 
-BM25
+- BM25
 
-Sentence-Transformers
+- Sentence-Transformers
 
-Transformers (FLAN-T5)
+- Transformers (FLAN-T5)
 
-FastAPI
+- FastAPI
 
-Docker
+- Docker
 
 ---
 
