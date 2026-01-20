@@ -179,4 +179,5 @@ The architecture closely aligns with systems used in search, recommendation, and
 ### Author
 
 Bhoomika Pathapati
+
 MS in Data Science
