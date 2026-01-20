@@ -6,7 +6,7 @@ The project emphasizes **retrieval quality, latency, system design clarity, and 
 
 ---
 
-## Key Features
+## ✨ Key Features
 
 ### Hybrid Retrieval
 - Semantic search using **FAISS** (Approximate Nearest Neighbors)
@@ -38,7 +38,7 @@ The project emphasizes **retrieval quality, latency, system design clarity, and 
 
 ---
 
-## System Architecture
+## 🧠 System Architecture
 
 User Query
 
@@ -74,7 +74,7 @@ Docker Deployment
 
 ---
 
-## Dataset
+## 📊 Dataset
 
 - Amazon product listings (Kaggle)
 - ~7,000 real-world product descriptions
@@ -82,7 +82,7 @@ Docker Deployment
 
 ---
 
-## API Usage
+## 🔌API Usage
 
 ### Search Endpoint
 
@@ -125,7 +125,7 @@ Docker Deployment
 
 ## Running Locally
 
-```json
+```bash
 python -m uvicorn service.app:app --reload
 ```
 
@@ -133,7 +133,7 @@ python -m uvicorn service.app:app --reload
 
 ## Running with Docker
 
-```json
+```bash
 docker build -t rag-production-system .
 docker run -p 8000:8000 rag-production-system
 ```
@@ -158,7 +158,7 @@ The architecture closely aligns with systems used in search, recommendation, and
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
 - Python
 
@@ -176,7 +176,7 @@ The architecture closely aligns with systems used in search, recommendation, and
 
 ---
 
-### Author
+### 👤 Author
 
 Bhoomika Pathapati
 
