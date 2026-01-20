@@ -45,6 +45,7 @@ User Query
 ↓
 
 Semantic Retrieval (FAISS)
+
 Lexical Retrieval (BM25)
 
 ↓
