@@ -140,7 +140,7 @@ docker run -p 8000:8000 rag-production-system
 
 ---
 
-## Why This Project Matters
+## 🎯 Why This Project Matters
 
 This project reflects real-world RAG system design by emphasizing:
 
