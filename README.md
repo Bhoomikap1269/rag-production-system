@@ -1,8 +1,9 @@
 # RAG++ — Production-Grade Retrieval-Augmented Generation System
+**TL;DR:** A production-grade RAG system with hybrid retrieval, cross-encoder re-ranking, and grounded LLM generation—optimized for retrieval quality and latency, not demos.
 
-RAG++ is a fully production-ready Retrieval-Augmented Generation (RAG) system designed to mirror real-world **search, recommendation, and question-answering infrastructure** used in large-scale AI platforms.
+RAG++ is a fully production-ready Retrieval-Augmented Generation (RAG) system designed to mirror real-world search, recommendation, and question-answering infrastructure used in large-scale AI platforms.
 
-The project emphasizes **retrieval quality, latency, system design clarity, and deployability**, rather than demo-only abstractions.
+The project prioritizes retrieval quality, ranking accuracy, latency stability, and system design clarity over prompt-heavy or demo-only abstractions.
 
 ---
 
