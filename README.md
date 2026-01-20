@@ -42,19 +42,26 @@ The project emphasizes retrieval quality, latency, system design clarity, and de
 
 User Query
 ↓
+
 Semantic Retrieval (FAISS)
 Lexical Retrieval (BM25)
 ↓
+
 Hybrid Fusion
 ↓
+
 Cross-Encoder Re-Ranking
 ↓
+
 Context Selection
 ↓
+
 LLM Answer Generation (FLAN-T5)
 ↓
+
 FastAPI Service
 ↓
+
 Docker Deployment
 
 
