@@ -88,7 +88,7 @@ Docker Deployment
 
 **POST** `/search`
 
-#### Request
+### Request
 
 ```json
 
@@ -125,14 +125,18 @@ Docker Deployment
 
 ### Running Locally
 
+```json
 python -m uvicorn service.app:app --reload
+```
 
 ---
 
 ### Running with Docker
 
+```json
 docker build -t rag-production-system .
 docker run -p 8000:8000 rag-production-system
+```
 
 ---
 
