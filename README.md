@@ -185,4 +185,4 @@ Bhoomika Pathapati
 MS in Data Science
 
 
-# This project was built to demonstrate real-world RAG system design as used in production search, recommendation, and enterprise AI pipelines.
+This project was built to demonstrate real-world RAG system design as used in production search, recommendation, and enterprise AI pipelines.
