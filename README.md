@@ -82,6 +82,8 @@ Docker Deployment
 
 ## 🔌API Usage
 
+The API exposes a single `/search` endpoint that supports semantic, lexical, and hybrid retrieval modes with optional grounded answer generation.
+
 ### Search Endpoint
 
 **POST** `/search`
